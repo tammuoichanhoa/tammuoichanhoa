@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Bao Anh from Earth =))  <br><br>- 🔭 I’m working as a freelance developer  <br>- 🎯 Goals: Independence - Freedom - Happiness <br>- ⚡ Reading novels & manga is my cup of tea</p>
+<p align="left">I'm just a single soul wandering on Earth  <br><br>- 🔭 I’m working as a freelance developer  <br>- 🎯 Goals: Independence - Freedom - Happiness <br>- ⚡ Reading novels & manga is my cup of tea</p>
 
 ###
 
