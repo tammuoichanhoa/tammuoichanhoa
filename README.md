@@ -27,7 +27,7 @@
 
 <p align="left">
 <!--  "I'm just a single soul wandering on Earth"  <br><br> -->
- - 🔭 I’m currently working as a freelance developer  <br>- 🎯 Goals: Independence - Freedom - Happiness <br>- ⚡ Reading novels & manga is my cup of tea</p>
+ - 🔭 I’m currently working as a free developer  <br>- 🎯 Goals: Independence - Freedom - Happiness <br>- ⚡ Reading novels & manga is my cup of tea</p>
 
 ###
 
