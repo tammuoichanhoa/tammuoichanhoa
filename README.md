@@ -1,6 +1,6 @@
 <!-- Hero -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=死 + 生 + 有 + 命，富 + 贵+ 在 + 天" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?size=30&lines=死+生+有+命，富+贵+在+天" />
   <br/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWY2ZjNhb2xwcTF0aGNvcnkzdG9uazR5emxpZWU2dTAzOTN0cTZ5dCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/11O5c9EfmZTyyA/giphy.webp" alt="Hero animation" />
 </div>
@@ -71,7 +71,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tammuoichanhoa&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true" alt="GitHub stats" />
   </a>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tammuoichanhoa&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=tammuoichanhoa&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
