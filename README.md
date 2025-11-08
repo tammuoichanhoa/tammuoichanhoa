@@ -1,6 +1,6 @@
 <!-- Hero -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&lines=死+生+有+命，富+贵+在+天" />
+  <!-- <img src="https://readme-typing-svg.demolab.com?size=30&lines=死+生+有+命，富+贵+在+天" /> -->
   <br/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWY2ZjNhb2xwcTF0aGNvcnkzdG9uazR5emxpZWU2dTAzOTN0cTZ5dCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/11O5c9EfmZTyyA/giphy.webp" alt="Hero animation" />
 </div>
