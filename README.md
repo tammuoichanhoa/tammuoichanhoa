@@ -45,7 +45,7 @@
 <!-- ## Toolbox Extras
 
 - 🧪 Experiment tracking, notebooks that tell a story, and dashboards that do more than look pretty.
-- ⚙️ CI/CD pipelines for fine-tuning loops, analytics for user feedback, and a sprinkle of storytelling. -->
+- ⚙️ CI/CD pipelines for fine-tuning loops, analytics for user feedback, and a sprinkle of storytelling.
 
 ## Connect with me
 
@@ -63,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
   </a>
 </p>
-
+ -->
 ## Stats & Activity
 
 <div align="center">
