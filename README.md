@@ -13,7 +13,7 @@
 
 ## About Me
 
-- 🇻🇳 I'm Bảo Anh — an AI engineer.
+- 🇻🇳 I'm Bảo Anh.
 
 <!-- ## What I'm Focusing On
 
