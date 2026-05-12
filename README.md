@@ -67,9 +67,9 @@
 ## Stats & Activity
 
 <div align="center">
-  <a href="https://github.com/tammuoichanhoa">
+  <!-- <a href="https://github.com/tammuoichanhoa">
     <img src="https://github-readme-stats.vercel.app/api?username=tammuoichanhoa&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true" alt="GitHub stats" />
-  </a>
+  </a> -->
   <br/>
   <img src="https://streak-stats.demolab.com/?user=tammuoichanhoa&theme=tokyonight&hide_border=true" />
 </div>
